@@ -16,3 +16,23 @@ undefined
 [1,2,3]
 
 { nombre: "Carla" }
+
+
+//Probar en la consola del navegador con typeof:
+
+typeof 40
+'number'
+typeof "Carla"
+'string'
+typeof false
+'boolean'
+typeof true
+'boolean'
+typeof null
+'object'
+typeof undefined
+'undefined'
+typeof []
+'object'
+typeof {}
+'object'
